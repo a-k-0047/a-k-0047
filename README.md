@@ -2,7 +2,7 @@
 Pythonを使ったバックエンド開発がメインですが、フロントエンド・AWSについて勉強中です。
 
 
-## 🛠 技術スタック
+## 技術スタック
 
 ### 実務経験
 <p align="left">
@@ -24,22 +24,22 @@ Pythonを使ったバックエンド開発がメインですが、フロント�
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-## 📜 資格
+## 資格
 - AWS 認定ソリューションアーキテクト – アソシエイト（SAA）（2025年取得）
 - TOEIC 805点（2019年取得）
 
 
-## 🚀 ポートフォリオ
+## ポートフォリオ
 [気象データ比較アプリ](https://d3najlyap0uyr2.cloudfront.net/)  
 **React + AWS SAM** を利用したサーバーレス構成のWebアプリです。
 
 
-## ✍ 技術ブログ
+## 技術ブログ
 **Zenn（日本語）：** [https://zenn.dev/ak0047](https://zenn.dev/ak0047)  
 **Medium（英語）：** [https://medium.com/@a-k-0047](https://medium.com/@a-k-0047)  
 
 
-## 💻 GitHubリポジトリ
+## GitHubリポジトリ
 - 気象データ比較アプリ
   - [フロントエンド](https://github.com/a-k-0047/weather-app-front)
   - [バックエンド](https://github.com/a-k-0047/weather-app-server)
