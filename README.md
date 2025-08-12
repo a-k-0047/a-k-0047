@@ -36,7 +36,7 @@ Pythonを使ったバックエンド開発がメインですが、フロント�
 
 ## 技術ブログ
 **Zenn（日本語）：** [https://zenn.dev/ak0047](https://zenn.dev/ak0047)  
-**Medium（英語）：** [https://medium.com/@a-k-0047](https://medium.com/@a-k-0047)  
+**Dev.to（英語）：** [https://dev.to/a-k-0047](https://dev.to/a-k-0047)  
 
 
 ## GitHubリポジトリ
